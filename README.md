@@ -41,6 +41,8 @@ Data Validation Layer
      ↓
 Data Enrichment Layer
      ↓
+SCD2 Merge Operations
+     ↓
 Gold Analytics Tables
      ↓
 Dashboard & KPI Reporting
